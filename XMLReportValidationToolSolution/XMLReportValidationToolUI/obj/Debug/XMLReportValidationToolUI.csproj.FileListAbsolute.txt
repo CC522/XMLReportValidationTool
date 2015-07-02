@@ -1,0 +1,10 @@
+E:\Project\Huanjie\XMLReportValidationToolSolution\XMLReportValidationToolUI\bin\Debug\XMLReportValidationToolUI.exe
+E:\Project\Huanjie\XMLReportValidationToolSolution\XMLReportValidationToolUI\bin\Debug\XMLReportValidationToolUI.pdb
+E:\Project\Huanjie\XMLReportValidationToolSolution\XMLReportValidationToolUI\bin\Debug\DataHelper.dll
+E:\Project\Huanjie\XMLReportValidationToolSolution\XMLReportValidationToolUI\bin\Debug\DataHelper.pdb
+E:\Project\Huanjie\XMLReportValidationToolSolution\XMLReportValidationToolUI\obj\Debug\XMLReportValidationToolUI.csprojResolveAssemblyReference.cache
+E:\Project\Huanjie\XMLReportValidationToolSolution\XMLReportValidationToolUI\obj\Debug\XMLReportValidationToolUI.ChooseReportPath.resources
+E:\Project\Huanjie\XMLReportValidationToolSolution\XMLReportValidationToolUI\obj\Debug\XMLReportValidationToolUI.Properties.Resources.resources
+E:\Project\Huanjie\XMLReportValidationToolSolution\XMLReportValidationToolUI\obj\Debug\XMLReportValidationToolUI.csproj.GenerateResource.Cache
+E:\Project\Huanjie\XMLReportValidationToolSolution\XMLReportValidationToolUI\obj\Debug\XMLReportValidationToolUI.exe
+E:\Project\Huanjie\XMLReportValidationToolSolution\XMLReportValidationToolUI\obj\Debug\XMLReportValidationToolUI.pdb

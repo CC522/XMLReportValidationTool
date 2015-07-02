@@ -1,0 +1,5 @@
+E:\Project\Huanjie\XMLReportValidationToolSolution\DataHelper\bin\Debug\DataHelper.dll
+E:\Project\Huanjie\XMLReportValidationToolSolution\DataHelper\bin\Debug\DataHelper.pdb
+E:\Project\Huanjie\XMLReportValidationToolSolution\DataHelper\obj\Debug\DataHelper.csprojResolveAssemblyReference.cache
+E:\Project\Huanjie\XMLReportValidationToolSolution\DataHelper\obj\Debug\DataHelper.dll
+E:\Project\Huanjie\XMLReportValidationToolSolution\DataHelper\obj\Debug\DataHelper.pdb
